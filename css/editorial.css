@@ -1,0 +1,24 @@
+h1{
+	color: #203b4c;
+
+
+}
+a{
+	text-decoration: none;
+	color: white;
+
+}
+h2{
+	color:#203b4c;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+ol li::before{
+	display: inline;
+}
+
+li{
+	display: inline-block;
+	margin-left: 5px;
+	margin-right: 5px;
+}

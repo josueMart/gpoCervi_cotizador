@@ -1,0 +1,35 @@
+header, footer{
+    background-color: #FFFFFF;
+  	position: fixed;
+  	box-sizing:border-box;
+  	color:#C3C1C1;
+  	width: 100%
+}
+
+header{
+	top: 0;
+	padding: 5px 0;
+}
+
+footer{
+	bottom: 0;
+	background-color: #421025;
+	padding: 20px 0;
+}
+
+header img{
+	width: 250px;
+	display:block;
+}
+
+img{
+	width: 100%;
+}
+
+.layout_a{
+	background-color: #421025;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-bottom: solid orange;
+	text-decoration: none;
+}
